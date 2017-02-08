@@ -288,7 +288,7 @@
       <workItem from="1484684490262" duration="1330000" />
       <workItem from="1484688844228" duration="810000" />
       <workItem from="1484828740937" duration="735000" />
-      <workItem from="1484868404534" duration="310000" />
+      <workItem from="1484868404534" duration="919000" />
     </task>
     <task id="LOCAL-00001" summary="more links (soundcloud and last.fm)">
       <created>1484685217736</created>
@@ -325,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484868603383</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html&#10;">
+      <created>1484868720242</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1484868720242</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12891000" />
+    <option name="totallyTimeSpent" value="13500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -368,7 +375,8 @@
     <MESSAGE value="readme" />
     <MESSAGE value="delete resume" />
     <MESSAGE value="dev.to&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev.to&#10;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;index.html&#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
